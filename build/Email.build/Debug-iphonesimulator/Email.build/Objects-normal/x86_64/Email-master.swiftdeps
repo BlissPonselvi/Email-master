@@ -1,0 +1,5 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "e7d003ff1eca07e754b1d62ac09f2561"
+inputs: 
+- "/Users/ChristoJoel/Desktop/Email-master/Email/ViewController.swift"
+- "/Users/ChristoJoel/Desktop/Email-master/Email/AppDelegate.swift"
